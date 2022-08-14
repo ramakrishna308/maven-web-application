@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>nhttp://65.2.69.209:9980/exus/repository/walmart-snapshort/</url>
+	      <url>nhttp://65.2.69.209:9980/nexus/repository/walmart-snapshort/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
