@@ -4,9 +4,6 @@ agent {
 label "nodes"
 }
 tools {maven "maven3.8.6"}
-triggers {
-  pollSCM '* * * * *'
-}
 stages
 {
 // get code from github
